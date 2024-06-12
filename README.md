@@ -31,7 +31,11 @@ From this site, we have extracted the following information:
 ### Data Cleaning and Validation:
 * Regular Expressions: Implements regex patterns to clean and validate the extracted data, ensuring consistency and removing unnecessary whitespace or formatting issues.
 * Consistent Data Formatting: Ensures all extracted information is uniformly formatted for ease of analysis and integration into other systems.
-
+  
 ### Data Organization:
 * Pandas Data Frame: Structures the cleaned data into a Pandas Data Frame, which facilitates easy manipulation, analysis, and exporting of the data to various formats.
+
+## Skills
+* Python
+  
 
